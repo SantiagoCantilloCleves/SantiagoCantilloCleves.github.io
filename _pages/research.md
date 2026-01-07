@@ -11,7 +11,12 @@ author_profile: true
 
  
 **A toolkit for setting and evaluating price floors** with [Carlos Hernández][carlos_site] <br />
-<small>[[Link][toolkit_link] | Journal of Public Economics ] </small>
+<small>[[Link (ungated)][toolkit_link] | Journal of Public Economics ] </small>
+
+<details>
+<summary>Abstract</summary>
+Regulators often impose price floors to protect producers from suspected market power by intermediaries. We present a toolkit for predicting, estimating, and explaining the effect of price floors on output and the distribution of welfare. We apply this toolkit to the Colombian road freight sector, taking advantage of rate floors that intended to protect carriers from low freight rates paid by intermediaries. We find that policymakers could have predicted the effect of price floors on quantities: a reduction in quantities for the routes and products for which rate floors were binding. After their implementation in 2017, rate floors benefited carriers but reduced total welfare by 12% of market revenue.
+</details>
 
 [toolkit_link]: https://doi.org/10.1016/j.jpubeco.2024.105084
 
