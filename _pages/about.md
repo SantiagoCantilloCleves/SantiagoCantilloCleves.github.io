@@ -15,7 +15,7 @@ redirect_from:
 
 ## About me
 
-I'm an economist working at the intersection of applied microeconomics and political economics. My research focuses primairly on how changes in the media environment affect information flows and its effects on political behavior.
+I'm an economist working at the intersection of applied microeconomics and political economics. My research focuses primarily on how changes in the media environment affect information flows and, in turn, political behavior.
 
 ## Research
 
