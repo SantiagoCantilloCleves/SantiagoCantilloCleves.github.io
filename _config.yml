@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Santiago Cantillo-Cleves"
 title_separator          : "-"
 name                     : &name "Santiago Cantillo-Cleves"
-description              : &description "PhD Student at UC San Diego"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate at UC San Diego"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://SantiagoCantilloCleves.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,6 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate"
   location         : "UC San Diego"
+  cv               : "https://www.dropbox.com/scl/fi/jfv6e3izpj7gnfuwz9meo/CV_CantilloCleves.pdf?rlkey=yjrtevv9g3v4lsf0mqd35205c&dl=0"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "santiago@ucsd.edu" 
@@ -125,7 +126,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
