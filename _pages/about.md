@@ -18,6 +18,7 @@ redirect_from:
 I'm an economist working at the intersection of applied microeconomics and political economics. My research focuses primarily on how changes in the media environment affect information flows and, in turn, political behavior.
 
 ## Research
+{: .research-heading}
 
 ### Publications
 {: .research-section-title}
@@ -29,7 +30,7 @@ I'm an economist working at the intersection of applied microeconomics and polit
   <span class="research-item__meta"><a href="https://doi.org/10.1016/j.jpubeco.2024.105084">Link</a></span>
 </h4>
 
-With [Carlos Hernández][carlos_site] <span class="research-item__venue">Journal of Public Economics</span>
+With [Carlos Hernández][carlos_site] <span class="research-item__venue">Journal of Public Economics, 2024</span>
 {: .research-item__byline}
 
 <details class="research-item__abstract">
@@ -46,12 +47,17 @@ With [Carlos Hernández][carlos_site] <span class="research-item__venue">Journal
   <span class="research-item__meta"><a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241044">Link</a> | <a href="https://SantiagoCantilloCleves.github.io/files/AACH_TravelingTruckerProblem.pdf">Draft</a></span>
 </h4>
 
-With [Treb Allen][treb_site], [David Atkin][david_site], and [Carlos Hernández][carlos_site] <span class="research-item__venue">AEA Papers and Proceedings</span>
+With [Treb Allen][treb_site], [David Atkin][david_site], and [Carlos Hernández][carlos_site] <span class="research-item__venue">AEA Papers and Proceedings, 2024</span>
 {: .research-item__byline}
 
 </article>
 
+<!--
 ### Working Papers
+{: .research-section-title}
+-->
+
+### Work in Progress
 {: .research-section-title}
 
 <article class="research-item" markdown="1">
@@ -71,6 +77,27 @@ With [Treb Allen][treb_site], [David Atkin][david_site], and [Carlos Hernández]
 
 </article>
 
+<article class="research-item" markdown="1">
+
+<h4 class="research-item__heading" id="voxgov">
+  <span class="research-item__title">Political Messaging and Voter Learning</span>
+</h4>
+
+With [Renee Bowen][renee_site], [Lawrence Broz][broz_site], Yung-Chun Chen, and [Maria Titova][maria_site]
+{: .research-item__byline}
+
+{% comment %}
+<details class="research-item__abstract">
+<summary>Summary</summary>
+<p>We study selective sharing of WTO news by politicians. The state of the world is either that US sovereignty is under threat or not, and news from the WTO serves as partially informative private signals to politicians about the state of the world. Politicians are either nationalists or globalists and voters want to elect politicians who will enact policy consistent with the true state of the world. Politician types are fixed and state-independent, and they selectively share WTO signals that will convince voters of the state of the world that supports their policy stance. In equilibrium, politicians share only information consistent with their preferred state, and suppress information inconsistent with their preferred state. We examine all news items issued by the WTO and all statements issued by politicians between 1992 and 2020. We show that representatives who vote less frequently for trade agreements, and receive more funding from anti-trade PACs, are more likely to make statements when news arrives from the WTO suggesting more positive selective sharing as anti-trade PAC contributions increase. These patterns are not statistically significant for the Senate. Democrats generally suppress WTO news more relative to Republicans, but Democrats' WTO news sharing response to both pro- and anti- trade PAC contributions are more pronounced than that of Republicans. The WTO news topic generating the most positive selective sharing from both pro- and anti-trade PAC recipients is Dispute Settlement, while Trade in Services and Gender and Trade have positive selective sharing for anti-trade PAC recipients and negative selectivity for pro-trade PAC recipients, suggesting suppression of information on these topics by pro-trade PAC recipients.</p>
+</details>
+{% endcomment %}
+
+</article>
+
 [treb_site]: https://sites.google.com/site/treballen/
 [david_site]: https://www.mit.edu/~atkin/
 [carlos_site]: https://www.cehernandez.info/
+[renee_site]: https://sites.google.com/site/tamarareneebowenlyn/
+[broz_site]: https://pages.ucsd.edu/~jlbroz/
+[maria_site]: https://maria-titova.com/
