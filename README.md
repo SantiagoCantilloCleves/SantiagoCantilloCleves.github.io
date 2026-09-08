@@ -1,6 +1,6 @@
 # Santiago Cantillo-Cleves
 
-Source code for [santiagocantillocleves.github.io](https://santiagocantillocleves.github.io/).
+Source code for [santiago-cantillo.github.io](https://santiago-cantillo.github.io/).
 
 ## Local preview
 

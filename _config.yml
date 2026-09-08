@@ -4,9 +4,9 @@ title           : "Santiago Cantillo-Cleves"
 title_separator : "-"
 name            : "Santiago Cantillo-Cleves"
 description     : "Economics PhD candidate at UC San Diego researching political economy, media, information, and applied microeconomics."
-url             : "https://SantiagoCantilloCleves.github.io"
+url             : "https://santiago-cantillo.github.io"
 baseurl         : ""
-repository      : "https://SantiagoCantilloCleves.github.io"
+repository      : "Santiago-Cantillo/Santiago-Cantillo.github.io"
 
 author:
   avatar   : "profile.png"
@@ -15,7 +15,7 @@ author:
   location : "UC San Diego"
   cv       : "https://www.dropbox.com/scl/fi/jfv6e3izpj7gnfuwz9meo/CV_CantilloCleves.pdf?rlkey=yjrtevv9g3v4lsf0mqd35205c&dl=0"
   email    : "santiago@ucsd.edu"
-  github   : "SantiagoCantilloCleves"
+  github   : "Santiago-Cantillo"
   scholar  : "https://scholar.google.com/citations?user=_00qL3EAAAAJ&hl=en"
 
 include:

@@ -44,7 +44,7 @@ With [Carlos Hernández][carlos_site] <span class="research-item__venue">Journal
 
 <h4 class="research-item__heading" id="the-traveling-trucker-problem">
   <span class="research-item__title">The Traveling Trucker Problem</span>
-  <span class="research-item__meta"><a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241044">Link</a> | <a href="https://SantiagoCantilloCleves.github.io/files/AACH_TravelingTruckerProblem.pdf">Draft</a></span>
+  <span class="research-item__meta"><a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241044">Link</a> | <a href="/files/AACH_TravelingTruckerProblem.pdf">Draft</a></span>
 </h4>
 
 With [Treb Allen][treb_site], [David Atkin][david_site], and [Carlos Hernández][carlos_site] <span class="research-item__venue">AEA Papers and Proceedings, 2024</span>
@@ -64,7 +64,7 @@ With [Treb Allen][treb_site], [David Atkin][david_site], and [Carlos Hernández]
 
 <h4 class="research-item__heading" id="trucks">
   <span class="research-item__title">Trucks</span>
-  <span class="research-item__meta"><a href="https://SantiagoCantilloCleves.github.io/files/AACH_Trucks.pdf">Draft</a> | <a href="https://SantiagoCantilloCleves.github.io/files/AACH_Trucks_Presentation.pdf">Slides</a></span>
+  <span class="research-item__meta"><a href="/files/AACH_Trucks.pdf">Draft</a> | <a href="/files/AACH_Trucks_Presentation.pdf">Slides</a></span>
 </h4>
 
 With [Treb Allen][treb_site], [David Atkin][david_site], and [Carlos Hernández][carlos_site]
